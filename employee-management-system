@@ -1,0 +1,18 @@
+Employee Management System:
+Abstract:  The Employee Management System is a backend application developed using Spring Boot that facilitates efficient management of employee data.
+The system provides a set of RESTful web services to perform fundamental operations such as creation, retrieval, updating, and deletion of employee records.
+Introduction:
+In modern applications, managing organizational data in a structured and scalable manner is essential. 
+This project is designed to demonstrate the development of a backend system using Spring Boot, following industry-standard practices. 
+The application ensures modularity, maintainability, and clear separation between different layers of the system.
+System Architecture:  The application follows a layered architecture, which includes:
+Controller Layer for handling client requests
+Service Layer for processing business logic
+Repository Layer for database interaction
+Entity Layer for defining data models
+This approach ensures proper separation of concerns and improves code organization.
+Technologies Used: The application is developed using:
+Java, Spring Boot, Spring Data JPA, Hibernate, MySQL / PostgreSQL
+Conclusion:
+The Employee Management System demonstrates the development of a structured backend application using Spring Boot. 
+It highlights the use of layered architecture and RESTful services to build a clean and maintainable system.
